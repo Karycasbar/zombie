@@ -1,2 +1,1 @@
-# zombie
-Proyecto Nicol
+# Zombie-Shooter-stage-1
